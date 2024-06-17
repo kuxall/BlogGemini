@@ -18,7 +18,7 @@ This Streamlit app allows users to generate content using Google Generative AI m
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/kuxall/BlogGemini
-   cd ai-content-generator
+   cd BlogGemini
    ```
 
 2. **Install the Required Libraries**:
